@@ -1,0 +1,7 @@
+C:\Users\hphifer\source\repos\BoosterQuizPlayground\BoosterQuizPlayground\bin\Debug\BoosterQuizPlayground.exe.config
+C:\Users\hphifer\source\repos\BoosterQuizPlayground\BoosterQuizPlayground\bin\Debug\BoosterQuizPlayground.exe
+C:\Users\hphifer\source\repos\BoosterQuizPlayground\BoosterQuizPlayground\bin\Debug\BoosterQuizPlayground.pdb
+C:\Users\hphifer\source\repos\BoosterQuizPlayground\BoosterQuizPlayground\obj\Debug\BoosterQuizPlayground.csprojAssemblyReference.cache
+C:\Users\hphifer\source\repos\BoosterQuizPlayground\BoosterQuizPlayground\obj\Debug\BoosterQuizPlayground.csproj.CoreCompileInputs.cache
+C:\Users\hphifer\source\repos\BoosterQuizPlayground\BoosterQuizPlayground\obj\Debug\BoosterQuizPlayground.exe
+C:\Users\hphifer\source\repos\BoosterQuizPlayground\BoosterQuizPlayground\obj\Debug\BoosterQuizPlayground.pdb
